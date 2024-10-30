@@ -1,0 +1,18 @@
+table,th,td{
+    border: 1px solid rgb(116, 30, 30);
+    box-shadow:1px 1px 1px 1px rgb(145, 144, 144);
+    width: 750px;
+    height: 50px;
+    text-align: center;
+    caption-side: bottom;
+    border-collapse: collapse;
+    
+}
+
+.students{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 5em;
+    
+}
